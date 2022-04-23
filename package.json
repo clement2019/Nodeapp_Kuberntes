@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp_kuberntes",
+  "version": "1.0.0",
+  "description": "Node app for docker build",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clement2019/Nodeapp_Kuberntes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clement2019/Nodeapp_Kuberntes/issues"
+  },
+  "homepage": "https://github.com/clement2019/Nodeapp_Kuberntes#readme"
+}
