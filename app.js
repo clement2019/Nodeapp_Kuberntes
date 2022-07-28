@@ -7,5 +7,5 @@ app.get('/',(req, res)=>{
 
 
 app.listen(port, ()=> {
-console.log('Node app app is up and listening to port: 3000');
+console.log('Node js server is ruuning and listening to port: 3000');
 }) 
